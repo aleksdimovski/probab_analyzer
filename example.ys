@@ -1,0 +1,6 @@
+(define $1::int)
+(define x::int)
+(assert (>= x 11))
+(assert (>= (- 0 x) -90))
+(check)
+(show-model)

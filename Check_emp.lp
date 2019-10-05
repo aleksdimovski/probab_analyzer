@@ -1,0 +1,11 @@
+H-representation
+begin
+5 3 rational
+0 1 0 
+0 0 1 
+3 0 -1 
+9 -1 0 
+23 -2 -5 
+end
+maximize
+0 1 0 

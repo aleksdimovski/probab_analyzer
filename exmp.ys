@@ -1,0 +1,10 @@
+(define x1::int)
+(define x2::int)
+(define x3::int)
+
+(assert (>= x1 0))
+(assert (>= x2 0))
+(assert (= x3 x1))
+(assert (> (+ x2 x1) 0))
+(check)
+(show-model)
