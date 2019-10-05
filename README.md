@@ -2,7 +2,7 @@
 Static analyzer for computing program reliability
 
 
-# probab_analyzer --- Analyses Tool for Cocputing Program Reliability
+# probab_analyzer --- Analyses Tool for Computing Program Reliability
 
 This tool is a research prototype static analyzer designed for analyzing C programs. 
 
